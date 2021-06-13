@@ -127,6 +127,8 @@ h5, h6          { font-weight: bolder }
 
     header .logo{
         margin-top: 100px;
+        padding: 30px 5px 5px 0px;
+        background: url('../img/hr_logo.png') no-repeat;
     }
 
     header .logo a, header .logo a:active, header .logo a:visited {
@@ -644,6 +646,8 @@ h5, h6          { font-weight: bolder }
     header .logo{
         margin: 40px 0 0 30px;
         float: left;
+        padding: 5px 5px 5px 35px;
+        background: url('../img/hr_logo.png') no-repeat;
     }
 
     header .logo a, header .logo a:active, header .logo a:visited {
@@ -651,7 +655,7 @@ h5, h6          { font-weight: bolder }
         text-transform: uppercase;
         font-family: 'raleway-regular';
         color: #454545;
-        font-size: 1.5em;
+        font-size: 1 em;
     }
 
     header .logo a:hover {
