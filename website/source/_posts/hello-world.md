@@ -1,38 +1,12 @@
 ---
 title: About
+cover_detail: https://loremflickr.com/g/1300/500/yorkshire,drystonewall?lock=1
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## Haworth Restorations
 
-### Create a new post
+![cover-index-desk](https://user-images.githubusercontent.com/25685164/121942413-5b6ad700-cd48-11eb-87fa-ec75590d3521.png)
 
-``` bash
-$ hexo new "My New Post"
-```
+### 
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+Welcome to Haworth Restorations website.
