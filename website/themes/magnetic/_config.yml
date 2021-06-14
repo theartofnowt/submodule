@@ -7,10 +7,10 @@ menu:
 default_post_title: Untitled
 
 # Default post cover index page
-default_cover_index: "http://placehold.it/450x450"
+default_cover_index: "img/cover-index-mobile.png"
 
 # Default post cover index page
-default_cover_detail: "http://placehold.it/1300x500"
+default_cover_detail: "img/cover-index-mobile.png"
 
 # Favicon
 favicon: "/img/hr_logo.png"
