@@ -1,5 +1,5 @@
 ---
-title: About
+title: Welcome
 cover_detail: https://loremflickr.com/g/1300/500/yorkshire,drystonewall?lock=1
 ---
 

@@ -1,8 +1,9 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+  About: /about
   Contact: /contact
+  Archives: /archives
 
 # Default post title
 default_post_title: Untitled
